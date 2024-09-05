@@ -1,6 +1,15 @@
 # 📱 iPhone 15 Website Clone
 
-![Project Banner](link-to-project-banner-image)
+![image](https://github.com/user-attachments/assets/9b24a7ba-91b0-4c1f-96b3-66f53740f1d7)
+
+![image](https://github.com/user-attachments/assets/49ce1abf-8d5b-4501-956e-0f89280a5ad6)
+
+![image](https://github.com/user-attachments/assets/13f31fe5-b737-45f1-bc14-eb80e48d66d6)
+
+![image](https://github.com/user-attachments/assets/414d22b0-f3ad-4fc0-aef7-8dcfd9a76c03)
+
+
+
 
 [![react.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
@@ -13,13 +22,13 @@
 
 This project is a modern clone of Apple's iPhone 15 Pro website, built using React.js and styled with Tailwind CSS. It showcases the effective use of GSAP (GreenSock Animation Platform) for smooth animations and Three.js for displaying interactive 3D models of the iPhone 15 Pro in various colors and angles.
 
-🌐 [Visit the Website](https://i-phone-clone.vercel.app/) | 📚 [View Detailed Documentation and Proposal](link-to-documentation)
+🌐 [Visit the Website](https://mnd-iphone-v1.netlify.app/) | 📚 [View Detailed Documentation and Proposal](link-to-documentation)
 
 ## 🤔 Why?
 
 ### Motivation
 
-The goal of this project is to demonstrate advanced web development techniques by recreating a complex, visually appealing website. It serves as a portfolio piece to showcase skills in:
+This project aims to demonstrate advanced web development techniques by recreating a complex, visually appealing website. It serves as a portfolio piece to showcase skills in:
 
 - 🔧 Modern React.js development
 - 🎨 3D rendering on the web with Three.js
@@ -84,6 +93,4 @@ For more information on the technologies used in this project, check out:
 - [GSAP Documentation](https://greensock.com/docs/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
